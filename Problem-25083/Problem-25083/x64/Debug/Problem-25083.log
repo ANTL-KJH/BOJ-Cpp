@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\백준\Problem-25083\Problem-25083\main.cpp(19,10): warning C4129: '`': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+F:\백준\Problem-25083\Problem-25083\main.cpp(21,10): warning C4129: '`': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Problem-25083.vcxproj -> F:\백준\Problem-25083\x64\Debug\Problem-25083.exe
