@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\백준\Problem-2292\Problem-2292\main.cpp(20,28): warning C4101: 'arithmetic_progression' :참조되지 않은 지역 변수입니다.
+  Problem-2292.vcxproj -> F:\백준\Problem-2292\x64\Debug\Problem-2292.exe
