@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\백준\Problem-10757\Problem-10757\main.cpp(23,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\백준\Problem-10757\Problem-10757\main.cpp(24,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\백준\Problem-10757\Problem-10757\main.cpp(50,5): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Problem-10757.vcxproj -> F:\백준\Problem-10757\x64\Debug\Problem-10757.exe

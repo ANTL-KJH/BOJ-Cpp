@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\백준\Problem-2839\Problem-2839\main.cpp(18,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+  Problem-2839.vcxproj -> F:\백준\Problem-2839\x64\Debug\Problem-2839.exe
