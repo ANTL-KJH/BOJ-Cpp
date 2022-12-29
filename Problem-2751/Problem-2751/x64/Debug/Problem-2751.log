@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\백준\Problem-2751\Problem-2751\main.cpp(70,16): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+F:\백준\Problem-2751\Problem-2751\main.cpp(70,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+F:\백준\Problem-2751\Problem-2751\main.cpp(70,16): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+F:\백준\Problem-2751\Problem-2751\main.cpp(71,9): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Problem-2751.vcxproj -> F:\백준\Problem-2751\x64\Debug\Problem-2751.exe
