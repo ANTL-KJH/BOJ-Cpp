@@ -24,7 +24,7 @@ int main()
     map<int, bool> difference_of_set;
     int a, b, input_num;
     cin >> a >> b;
-    for (int i = 0; i < a+b; i++)
+    for (int i = 0; i < a + b; i++)
     {
         cin >> input_num;
         if (difference_of_set[input_num] == true)
