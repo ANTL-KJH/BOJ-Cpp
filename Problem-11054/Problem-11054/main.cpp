@@ -60,5 +60,9 @@ int main(void)
 			max_value = dp_L[i] + dp_R[i];
 	}
 	cout << max_value + 1;
+
+	delete[] arr;
+	delete[] dp_L;
+	delete[] dp_R;
 	return 0;
 }
