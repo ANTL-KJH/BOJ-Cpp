@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\백준\Problem-16139\Problem-16139\main.cpp(26,20): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+E:\백준\Problem-16139\Problem-16139\main.cpp(26,25): warning C4101: 'col' :참조되지 않은 지역 변수입니다.
+  Problem-16139.vcxproj -> E:\백준\Problem-16139\x64\Debug\Problem-16139.exe
