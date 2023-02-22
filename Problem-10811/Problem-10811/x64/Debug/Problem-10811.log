@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\BOJ-Cpp\Problem-10811\Problem-10811\main.cpp(24,18): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Problem-10811.vcxproj -> E:\BOJ-Cpp\Problem-10811\x64\Debug\Problem-10811.exe
