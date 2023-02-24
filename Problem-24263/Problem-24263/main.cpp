@@ -1,14 +1,14 @@
 /*
-* Project Name : Problem-24262
+* Project Name : Problem-24263
 * Program's purpose and basic function :
-* - BAEKJOON Online Judge Problem-24262
+* - BAEKJOON Online Judge Problem-24263
 * Program First Author : JH KIM
-* Date of First Write : 2023.02.22
+* Date of First Write : 2023.02.23
 * ======================================================================================
 * Source Code Modification History
 *   ======================================================================================
 * Author				Date				Ver				Modification details
-* JH KIM				2023.02.22			v1.0			First Write
+* JH KIM				2023.02.23			v1.0			First Write
 */
 
 #include <iostream>
@@ -23,8 +23,8 @@ int main(void)
 
 	int n;
 	cin >> n;
-	
-	cout << 1 << "\n" << 0;
+
+	cout << n << "\n" << 1;
 
 	return 0;
 }
