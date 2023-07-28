@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ANTL\Desktop\GitHub\BOJ-Cpp\Problem-1966\Problem-1966\main.cpp(21,19): warning C4101: 'target' :참조되지 않은 지역 변수입니다.
+  Problem-1966.vcxproj -> C:\Users\ANTL\Desktop\GitHub\BOJ-Cpp\Problem-1966\x64\Debug\Problem-1966.exe
