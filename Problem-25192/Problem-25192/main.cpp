@@ -25,7 +25,7 @@ int main(void)
 	for (int i = 0; i < N; i++)
 	{
 		cin >> inputStr;
-		if (inputStr == "ENTER")	// Enter가 입력되면 vector 초기화
+		if (inputStr == "ENTER")	// vector clear if "ENTER" input
 		{
 			sort(v_str.begin(), v_str.end());
 			v_str.erase(unique(v_str.begin(), v_str.end()), v_str.end());
@@ -37,7 +37,7 @@ int main(void)
 			v_str.push_back(inputStr);
 		}
 	}
-	// 모든 입력 종료후 중복되지 않은 입력만큼 덧셈
+	// after all input, add not uniform
 	sort(v_str.begin(), v_str.end());
 	v_str.erase(unique(v_str.begin(), v_str.end()), v_str.end());
 	cnt += v_str.size();
