@@ -33,7 +33,7 @@ int main(void)
 		}
 		else if (input == 2)
 		{
-			if (s.size() == 0)
+			if (s.size() == 0)	// size check
 				cout << -1 << "\n";
 			else
 			{

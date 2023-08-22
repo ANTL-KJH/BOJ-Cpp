@@ -30,7 +30,7 @@ int main(void)
 			target++;
 			continue;
 		}
-		else if (num != target)
+		else if (num != target)	// target¿Ã æ∆¥“∂ß
 		{
 			while(s.empty() == false && s.top() == target)
 			{

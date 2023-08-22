@@ -44,7 +44,6 @@ int main(void)
 				}
 			}
 		}
-
 		for (int p = 0; p < funcStr.size(); p++)
 		{
 			if (funcStr[p] == 'R')

@@ -57,7 +57,7 @@ int main(void)
 			else
 				cout << -1 << "\n";
 		}
-		else if (menu == 5)
+		else if (menu == 5)	// size
 		{
 			cout << dq.size() << "\n";
 		}
